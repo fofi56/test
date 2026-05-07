@@ -1,3 +1,4 @@
+vless://12fd633f-f235-4bfc-9a4b-9a8f0cade6a6@62.60.206.34:57577?security=&type=tcp&encryption=none#@WeebsDungeon
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOThhaFhAb00xIw==@45.59.114.252:8368#Bern
 socks5://185.186.242.234:1093#185-1093
 socks5://185.186.242.234:1094#185-1094
