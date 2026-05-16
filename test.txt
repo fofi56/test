@@ -1,6 +1,6 @@
-vless://ce9730eb-2109-46d0-911c-b3425ee7a23a@63.141.252.203:443?encryption=none&security=tls&type=ws&sni=ominous-space-spoon-gxqr6vqjr4vjcppxp-443.app.github.dev&path=%2Flive-chat#US1
-vless://ce9730eb-2109-46d0-911c-b3425ee7a23a@142.54.178.211:443?encryption=none&security=tls&type=ws&sni=ominous-space-spoon-gxqr6vqjr4vjcppxp-443.app.github.dev&path=%2Flive-chat#US2
-vless://ce9730eb-2109-46d0-911c-b3425ee7a23a@50.7.87.2:443?encryption=none&security=tls&type=ws&sni=ominous-space-spoon-gxqr6vqjr4vjcppxp-443.app.github.dev&path=%2Flive-chat#DE1
-vless://ce9730eb-2109-46d0-911c-b3425ee7a23a@204.12.196.34:443?encryption=none&security=tls&type=ws&sni=ominous-space-spoon-gxqr6vqjr4vjcppxp-443.app.github.dev&path=%2Flive-chat#US3
-vless://ce9730eb-2109-46d0-911c-b3425ee7a23a@50.7.87.5:443?encryption=none&security=tls&type=ws&sni=ominous-space-spoon-gxqr6vqjr4vjcppxp-443.app.github.dev&path=%2Flive-chat#DE2
-vless://ce9730eb-2109-46d0-911c-b3425ee7a23a@50.7.87.4:443?encryption=none&security=tls&type=ws&sni=ominous-space-spoon-gxqr6vqjr4vjcppxp-443.app.github.dev&path=%2Flive-chat#DE3
+vless://d4eb8db0-f550-4a8e-aeef-7b934d3810e7@63.141.252.203:443?encryption=none&security=tls&sni=cuddly-space-winner-jr579p5v745qh5vgx-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2Flive-chat#US1
+vless://d4eb8db0-f550-4a8e-aeef-7b934d3810e7@142.54.178.211:443?encryption=none&security=tls&sni=cuddly-space-winner-jr579p5v745qh5vgx-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2Flive-chat#US2
+vless://d4eb8db0-f550-4a8e-aeef-7b934d3810e7@50.7.87.2:443?encryption=none&security=tls&sni=cuddly-space-winner-jr579p5v745qh5vgx-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2Flive-chat#DE1
+vless://d4eb8db0-f550-4a8e-aeef-7b934d3810e7@204.12.196.34:443?encryption=none&security=tls&sni=cuddly-space-winner-jr579p5v745qh5vgx-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2Flive-chat#US3
+vless://d4eb8db0-f550-4a8e-aeef-7b934d3810e7@50.7.87.5:443?encryption=none&security=tls&sni=cuddly-space-winner-jr579p5v745qh5vgx-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2Flive-chat#DE2
+vless://d4eb8db0-f550-4a8e-aeef-7b934d3810e7@50.7.87.4:443?encryption=none&security=tls&sni=cuddly-space-winner-jr579p5v745qh5vgx-443.app.github.dev&insecure=0&allowInsecure=0&type=ws&path=%2Flive-chat#DE3
