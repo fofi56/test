@@ -1,6 +1,6 @@
-vless://6b5aac38-d641-4cdd-9087-adee5c2dd2f0@63.141.252.203:443?encryption=none&security=tls&type=ws&sni=expert-system-5vqr57qjrgvx37jxv-443.app.github.dev&path=%2Flive-chat#US1
-vless://6b5aac38-d641-4cdd-9087-adee5c2dd2f0@142.54.178.211:443?encryption=none&security=tls&type=ws&sni=expert-system-5vqr57qjrgvx37jxv-443.app.github.dev&path=%2Flive-chat#US2
-vless://6b5aac38-d641-4cdd-9087-adee5c2dd2f0@50.7.87.2:443?encryption=none&security=tls&type=ws&sni=expert-system-5vqr57qjrgvx37jxv-443.app.github.dev&path=%2Flive-chat#DE1
-vless://6b5aac38-d641-4cdd-9087-adee5c2dd2f0@204.12.196.34:443?encryption=none&security=tls&type=ws&sni=expert-system-5vqr57qjrgvx37jxv-443.app.github.dev&path=%2Flive-chat#US3
-vless://6b5aac38-d641-4cdd-9087-adee5c2dd2f0@50.7.87.5:443?encryption=none&security=tls&type=ws&sni=expert-system-5vqr57qjrgvx37jxv-443.app.github.dev&path=%2Flive-chat#DE2
-vless://6b5aac38-d641-4cdd-9087-adee5c2dd2f0@50.7.87.4:443?encryption=none&security=tls&type=ws&sni=expert-system-5vqr57qjrgvx37jxv-443.app.github.dev&path=%2Flive-chat#DE3
+vless://e07e3330-3724-43f0-b159-5096da62fff6@63.141.252.203:443?encryption=none&security=tls&type=ws&sni=ubiquitous-fishstick-p7rw95r4w7px294vq-443.app.github.dev&path=%2Flive-chat#US1
+vless://e07e3330-3724-43f0-b159-5096da62fff6@142.54.178.211:443?encryption=none&security=tls&type=ws&sni=ubiquitous-fishstick-p7rw95r4w7px294vq-443.app.github.dev&path=%2Flive-chat#US2
+vless://e07e3330-3724-43f0-b159-5096da62fff6@50.7.87.2:443?encryption=none&security=tls&type=ws&sni=ubiquitous-fishstick-p7rw95r4w7px294vq-443.app.github.dev&path=%2Flive-chat#DE1
+vless://e07e3330-3724-43f0-b159-5096da62fff6@204.12.196.34:443?encryption=none&security=tls&type=ws&sni=ubiquitous-fishstick-p7rw95r4w7px294vq-443.app.github.dev&path=%2Flive-chat#US3
+vless://e07e3330-3724-43f0-b159-5096da62fff6@50.7.87.5:443?encryption=none&security=tls&type=ws&sni=ubiquitous-fishstick-p7rw95r4w7px294vq-443.app.github.dev&path=%2Flive-chat#DE2
+vless://e07e3330-3724-43f0-b159-5096da62fff6@50.7.87.4:443?encryption=none&security=tls&type=ws&sni=ubiquitous-fishstick-p7rw95r4w7px294vq-443.app.github.dev&path=%2Flive-chat#DE3
